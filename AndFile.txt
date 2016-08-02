@@ -1,8 +1,0 @@
-This is a file to test the number of and
- and
-skjsd
-sdkld
- and 
-and &
-ad
- and in a file.
